@@ -1,0 +1,11 @@
+/**
+@WebServlet(name = "helloServlet", urlPattern="/hello")
+
+@Override
+protected void service()
+
+System.out.println("HelloServlet.service");
+
+
+
+**/
